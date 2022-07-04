@@ -6,11 +6,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Php | Laravel | Python | Java | Bash
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 💻 &nbsp; PHP | Laravel | Python | Java | Bash
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Apache | Nginx | Docker | AWS | 
 - 🔧 &nbsp; Deployer | Git | Jenkins
-- 🖥 &nbsp; Linux | Window | MacOs
+- 🖥 &nbsp; Linux | CentOS| Window | MacOs
 
 <br>
 
